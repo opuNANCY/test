@@ -1,0 +1,77 @@
+GDG DevFest Japan 2014
+
+Android & Google Play Services最新情報
+=======================================
+
+Google Tag Manager
+--------------------
+クラウド上にタグと内容(値)を定義し、WEBサイトやアプリで利用する機能
+-  主に統計情報のログ収集等に利用
+
+Address API
+-------------
+初めて訪問するサイトで住所等を入力する手間を軽減するAPI
+
+Game Gifts
+------------
+Google+のサークル等を介してゲーム内のアイテム等を他のユーザーに送ったり、
+助けを求めたりすることができる
+
+LiquidFun
+----------
+2D物理ライブラリ
+
+Google Play Games Unityプラグイン
+---------------------------------
+UnityでPlay Gamesを利用するためのもの
+
+Google Drive API Update
+-------------------------
+-  Offline Data
+   オフライン時のDriveデータへのアクセス
+
+-  Hidden Application Data
+   ユーザーの目に見えないデータ(アプリケーション内だけで利用するデータ)をドライブに保持
+
+-  Change Notification
+   ドライブのコンテンツの変更を検知
+
+Google Cast SDK
+------------------
+Castデバイスに自分のアプリをCastできる開発キット
+
+-  Chromecast
+   -  HDMIで映像や音楽を流せる(Castできる)
+   -  Wifiでネットに繋がる
+   -  35USD(日本では売っていない)
+
+Android Wear
+--------------
+ウェアラブル版Android
+-  できること
+   Notificationのみ？
+
+Developer Stories
+--------------------
+Google Playに人気コンテンツを出しているDeveloperの体験談を読める
+
+Google Patch Rewards
+---------------------
+セキュリティに関連したパッチを作れば報奨金をもらえるチャンスがある	
+
+
+Android Wear & Mobile Backend Starter
+======================================
+
+
+
+
+
+
+
+
+
+
+
+
+
